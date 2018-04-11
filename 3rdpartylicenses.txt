@@ -99,11 +99,11 @@ MIT
 MIT
 MIT
 
-@angular/router@4.4.6
+@angular/common@4.4.6
 MIT
 MIT
 
-@angular/common@4.4.6
+@angular/router@4.4.6
 MIT
 MIT
 
